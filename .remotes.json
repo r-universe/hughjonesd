@@ -4,5 +4,17 @@
     "url": "https://github.com/hughjonesd/doctest",
     "via": ["onetime"],
     "from": "onetime"
+  },
+  {
+    "package": "pkgapi",
+    "url": "https://github.com/r-lib/pkgapi",
+    "via": ["apicheck"],
+    "from": "apicheck"
+  },
+  {
+    "package": "rcheology",
+    "url": "https://github.com/hughjonesd/rcheology",
+    "via": ["apicheck"],
+    "from": "apicheck"
   }
 ]

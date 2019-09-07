@@ -58,3 +58,8 @@
 	url = https://github.com/hughjonesd/apicheck
 	shallow = true
 	registered = true
+[submodule "pkgapi"]
+	path = pkgapi
+	url = https://github.com/r-lib/pkgapi
+	shallow = true
+	registered = false
