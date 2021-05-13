@@ -1,0 +1,26 @@
+[
+  {
+    "package": "anim.plots",
+    "oncran": true
+  },
+  {
+    "package": "huxtable",
+    "oncran": true
+  },
+  {
+    "package": "rcheology",
+    "oncran": true
+  },
+  {
+    "package": "refset",
+    "oncran": true
+  },
+  {
+    "package": "santoku",
+    "oncran": true
+  },
+  {
+    "package": "truelies",
+    "oncran": true
+  }
+]

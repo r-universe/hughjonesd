@@ -8,34 +8,28 @@
 	url = https://github.com/hughjonesd/anim.plots
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "refset"]
 	path = refset
 	url = https://github.com/hughjonesd/refset
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
 	shallow = true
 	registered = true
-	oncran = true
