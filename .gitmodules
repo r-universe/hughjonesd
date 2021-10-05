@@ -13,11 +13,6 @@
 	url = https://github.com/hughjonesd/huxtable
 	shallow = true
 	registered = true
-[submodule "rcheology"]
-	path = rcheology
-	url = https://github.com/hughjonesd/rcheology
-	shallow = true
-	registered = true
 [submodule "refset"]
 	path = refset
 	url = https://github.com/hughjonesd/refset
