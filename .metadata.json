@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "rcheology",
+    "oncran": true
+  },
+  {
     "package": "refset",
     "oncran": true
   },
