@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "onetime",
+    "oncran": true
+  },
+  {
     "package": "rcheology",
     "oncran": true
   },

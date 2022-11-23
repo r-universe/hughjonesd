@@ -13,6 +13,11 @@
 	url = https://github.com/hughjonesd/huxtable
 	shallow = true
 	registered = true
+[submodule "onetime"]
+	path = onetime
+	url = https://github.com/hughjonesd/onetime
+	shallow = true
+	registered = true
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
