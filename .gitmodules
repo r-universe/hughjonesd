@@ -38,3 +38,8 @@
 	url = https://github.com/hughjonesd/truelies
 	shallow = true
 	registered = true
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
+	shallow = true
+	registered = false

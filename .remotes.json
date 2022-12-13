@@ -1,0 +1,8 @@
+[
+  {
+    "package": "doctest",
+    "url": "https://github.com/hughjonesd/doctest",
+    "via": ["onetime"],
+    "from": "onetime"
+  }
+]
