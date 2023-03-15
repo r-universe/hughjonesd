@@ -4,18 +4,6 @@
     "oncran": true
   },
   {
-    "package": "truelies",
-    "oncran": true
-  },
-  {
-    "package": "rcheology",
-    "oncran": true
-  },
-  {
-    "package": "santoku",
-    "oncran": true
-  },
-  {
     "package": "huxtable",
     "oncran": true
   },
@@ -24,7 +12,19 @@
     "oncran": true
   },
   {
+    "package": "rcheology",
+    "oncran": true
+  },
+  {
     "package": "refset",
+    "oncran": true
+  },
+  {
+    "package": "santoku",
+    "oncran": true
+  },
+  {
+    "package": "truelies",
     "oncran": true
   }
 ]
