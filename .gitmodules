@@ -8,6 +8,11 @@
 	url = https://github.com/hughjonesd/anim.plots
 	shallow = true
 	registered = true
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
+	shallow = true
+	registered = true
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
@@ -43,8 +48,3 @@
 	url = https://github.com/hughjonesd/truelies
 	shallow = true
 	registered = true
-[submodule "doctest"]
-	path = doctest
-	url = https://github.com/hughjonesd/doctest
-	shallow = true
-	registered = false
