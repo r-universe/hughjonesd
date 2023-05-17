@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/hughjonesd/hughjonesd.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "anim.plots"]
-	path = anim.plots
-	url = https://github.com/hughjonesd/anim.plots
-	shallow = true
-	registered = true
-[submodule "doctest"]
-	path = doctest
-	url = https://github.com/hughjonesd/doctest
+[submodule "ggmagnify"]
+	path = ggmagnify
+	url = https://github.com/hughjonesd/ggmagnify
 	shallow = true
 	registered = true
 [submodule "huxtable"]
@@ -18,14 +13,14 @@
 	url = https://github.com/hughjonesd/huxtable
 	shallow = true
 	registered = true
+[submodule "santoku"]
+	path = santoku
+	url = https://github.com/hughjonesd/santoku
+	shallow = true
+	registered = true
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/hughjonesd/latexdiffr
-	shallow = true
-	registered = true
-[submodule "onetime"]
-	path = onetime
-	url = https://github.com/hughjonesd/onetime
 	shallow = true
 	registered = true
 [submodule "rcheology"]
@@ -33,18 +28,33 @@
 	url = https://github.com/hughjonesd/rcheology
 	shallow = true
 	registered = true
-[submodule "refset"]
-	path = refset
-	url = https://github.com/hughjonesd/refset
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
 	shallow = true
 	registered = true
-[submodule "santoku"]
-	path = santoku
-	url = https://github.com/hughjonesd/santoku
+[submodule "onetime"]
+	path = onetime
+	url = https://github.com/hughjonesd/onetime
+	shallow = true
+	registered = true
+[submodule "namer"]
+	path = namer
+	url = https://github.com/hughjonesd/namer
 	shallow = true
 	registered = true
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
+	shallow = true
+	registered = true
+[submodule "anim.plots"]
+	path = anim.plots
+	url = https://github.com/hughjonesd/anim.plots
+	shallow = true
+	registered = true
+[submodule "apicheck"]
+	path = apicheck
+	url = https://github.com/hughjonesd/apicheck
 	shallow = true
 	registered = true
