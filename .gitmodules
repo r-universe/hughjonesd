@@ -7,7 +7,7 @@
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
 	shallow = true
-	branch = *release
+	branch = v0.2.0
 	registered = true
 [submodule "huxtable"]
 	path = huxtable
