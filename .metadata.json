@@ -2,5 +2,25 @@
   {
     "package": "ggmagnify",
     "releasetag": true
+  },
+  {
+    "package": "huxtable",
+    "releasetag": true
+  },
+  {
+    "package": "santoku",
+    "releasetag": true
+  },
+  {
+    "package": "rcheology",
+    "releasetag": true
+  },
+  {
+    "package": "doctest",
+    "releasetag": true
+  },
+  {
+    "package": "onetime",
+    "releasetag": true
   }
 ]

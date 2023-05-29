@@ -13,11 +13,13 @@
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "latexdiffr"]
 	path = latexdiffr
@@ -28,16 +30,19 @@
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
 	shallow = true
+	branch = *release
 	registered = true
 [submodule "namer"]
 	path = namer
