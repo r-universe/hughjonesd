@@ -1,71 +1,47 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/hughjonesd/hughjonesd.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
-	shallow = true
 	branch = v0.2.0
-	registered = true
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
-	shallow = true
 	branch = v5.5.2-rc1
-	registered = true
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
-	shallow = true
 	branch = cran-0.9.1
-	registered = true
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/hughjonesd/latexdiffr
-	shallow = true
-	registered = true
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
-	shallow = true
 	branch = v4.3.0.0
-	registered = true
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
-	shallow = true
 	branch = v0.2.0
-	registered = true
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
-	shallow = true
 	branch = CRAN-0.1.0
-	registered = true
 [submodule "namer"]
 	path = namer
 	url = https://github.com/hughjonesd/namer
-	shallow = true
-	registered = true
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
-	shallow = true
-	registered = true
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/hughjonesd/anim.plots
-	shallow = true
-	registered = true
 [submodule "apicheck"]
 	path = apicheck
 	url = https://github.com/hughjonesd/apicheck
-	shallow = true
-	registered = true
 [submodule "pkgapi"]
 	path = pkgapi
 	url = https://github.com/r-lib/pkgapi
-	shallow = true
 	registered = false
