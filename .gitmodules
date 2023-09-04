@@ -2,6 +2,16 @@
 	path = .registry
 	url = https://github.com/hughjonesd/hughjonesd.r-universe.dev
 	branch = HEAD
+[submodule "anim.plots"]
+	path = anim.plots
+	url = https://github.com/hughjonesd/anim.plots
+[submodule "apicheck"]
+	path = apicheck
+	url = https://github.com/hughjonesd/apicheck
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
+	branch = v0.2.0
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
@@ -10,38 +20,28 @@
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
 	branch = v5.5.2-rc1
-[submodule "santoku"]
-	path = santoku
-	url = https://github.com/hughjonesd/santoku
-	branch = cran-0.9.1
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/hughjonesd/latexdiffr
-[submodule "rcheology"]
-	path = rcheology
-	url = https://github.com/hughjonesd/rcheology
-	branch = v4.3.1.0
-[submodule "doctest"]
-	path = doctest
-	url = https://github.com/hughjonesd/doctest
-	branch = v0.2.0
+[submodule "namer"]
+	path = namer
+	url = https://github.com/hughjonesd/namer
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
 	branch = CRAN-0.1.0
-[submodule "namer"]
-	path = namer
-	url = https://github.com/hughjonesd/namer
-[submodule "truelies"]
-	path = truelies
-	url = https://github.com/hughjonesd/truelies
-[submodule "anim.plots"]
-	path = anim.plots
-	url = https://github.com/hughjonesd/anim.plots
-[submodule "apicheck"]
-	path = apicheck
-	url = https://github.com/hughjonesd/apicheck
 [submodule "pkgapi"]
 	path = pkgapi
 	url = https://github.com/r-lib/pkgapi
 	registered = false
+[submodule "rcheology"]
+	path = rcheology
+	url = https://github.com/hughjonesd/rcheology
+	branch = v4.3.1.0
+[submodule "santoku"]
+	path = santoku
+	url = https://github.com/hughjonesd/santoku
+	branch = cran-0.9.1
+[submodule "truelies"]
+	path = truelies
+	url = https://github.com/hughjonesd/truelies
