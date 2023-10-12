@@ -41,7 +41,7 @@
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
-	branch = cran-0.9.1
+	branch = cran-0.10.0
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
