@@ -11,7 +11,7 @@
 [submodule "codesamples"]
 	path = codesamples
 	url = https://github.com/hughjonesd/codesamples
-	branch = *release
+	branch = v0.1.0
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
