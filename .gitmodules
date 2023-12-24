@@ -8,6 +8,10 @@
 [submodule "apicheck"]
 	path = apicheck
 	url = https://github.com/hughjonesd/apicheck
+[submodule "codesamples"]
+	path = codesamples
+	url = https://github.com/hughjonesd/codesamples
+	branch = *release
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest

@@ -22,5 +22,9 @@
   {
     "package": "onetime",
     "releasetag": true
+  },
+  {
+    "package": "codesamples",
+    "releasetag": true
   }
 ]
