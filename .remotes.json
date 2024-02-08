@@ -1,5 +1,11 @@
 [
   {
+    "package": "ggforce",
+    "url": "https://github.com/thomasp85/ggforce",
+    "via": ["ggmagnify"],
+    "from": "ggmagnify"
+  },
+  {
     "package": "pkgapi",
     "url": "https://github.com/r-lib/pkgapi",
     "via": ["apicheck"],

@@ -16,10 +16,14 @@
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
 	branch = v0.3.0
+[submodule "ggforce"]
+	path = ggforce
+	url = https://github.com/thomasp85/ggforce
+	registered = false
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
-	branch = v0.2.0
+	branch = v0.3.0
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
