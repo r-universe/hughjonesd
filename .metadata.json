@@ -26,5 +26,9 @@
   {
     "package": "codesamples",
     "releasetag": true
+  },
+  {
+    "package": "namer",
+    "releasetag": true
   }
 ]
