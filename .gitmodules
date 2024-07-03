@@ -34,7 +34,7 @@
 [submodule "namer"]
 	path = namer
 	url = https://github.com/hughjonesd/namer
-	branch = *release
+	branch = v0.1.0
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
