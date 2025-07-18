@@ -46,7 +46,7 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
-	branch = v4.5.0.0
+	branch = v4.5.1.0
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
