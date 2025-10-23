@@ -1,5 +1,9 @@
 [
   {
+    "package": "Rmlx",
+    "releasetag": true
+  },
+  {
     "package": "ggmagnify",
     "releasetag": true
   },

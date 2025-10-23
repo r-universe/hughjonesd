@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/hughjonesd/hughjonesd.r-universe.dev
 	branch = HEAD
+[submodule "Rmlx"]
+	path = Rmlx
+	url = https://github.com/hughjonesd/Rmlx
+	branch = *release
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/hughjonesd/anim.plots
