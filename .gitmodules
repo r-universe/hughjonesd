@@ -31,7 +31,7 @@
 [submodule "huxtable"]
 	path = huxtable
 	url = https://github.com/hughjonesd/huxtable
-	branch = v5.7.0-rc1
+	branch = v5.8.0
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/hughjonesd/latexdiffr
