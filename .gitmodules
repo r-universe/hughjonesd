@@ -5,7 +5,7 @@
 [submodule "Rmlx"]
 	path = Rmlx
 	url = https://github.com/hughjonesd/Rmlx
-	branch = v0.2.0
+	branch = v0.2.1
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/hughjonesd/anim.plots
