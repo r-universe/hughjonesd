@@ -19,10 +19,6 @@
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
 	branch = v0.3.0
-[submodule "ggforce"]
-	path = ggforce
-	url = https://github.com/thomasp85/ggforce
-	registered = false
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
@@ -42,10 +38,6 @@
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
 	branch = CRAN-0.2.0
-[submodule "pkgapi"]
-	path = pkgapi
-	url = https://github.com/r-lib/pkgapi
-	registered = false
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
