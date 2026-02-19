@@ -18,7 +18,7 @@
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/hughjonesd/doctest
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
