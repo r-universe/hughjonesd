@@ -45,7 +45,7 @@
 [submodule "santoku"]
 	path = santoku
 	url = https://github.com/hughjonesd/santoku
-	branch = v1.1.0
+	branch = v1.2.0
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/hughjonesd/truelies
