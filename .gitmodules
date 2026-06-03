@@ -5,6 +5,10 @@
 [submodule "Rmlx"]
 	path = Rmlx
 	url = https://github.com/hughjonesd/Rmlx
+[submodule "RmlxStats"]
+	path = RmlxStats
+	url = https://github.com/hughjonesd/RmlxStats
+	branch = *release
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/hughjonesd/anim.plots
@@ -30,6 +34,10 @@
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/hughjonesd/latexdiffr
+[submodule "mypaintr"]
+	path = mypaintr
+	url = https://github.com/hughjonesd/mypaintr
+	branch = *release
 [submodule "namer"]
 	path = namer
 	url = https://github.com/hughjonesd/namer
