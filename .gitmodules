@@ -8,7 +8,7 @@
 [submodule "RmlxStats"]
 	path = RmlxStats
 	url = https://github.com/hughjonesd/RmlxStats
-	branch = v0.4.0
+	branch = v0.4.1
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/hughjonesd/anim.plots
